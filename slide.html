@@ -1,0 +1,65 @@
+<form action="mar.html" method="post">
+
+<!doctype html>
+<html lang="es">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="Estilos.css">
+
+    <script src="Funciones.js" defer></script>
+    <!-- Bootstrap CSS y Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
+
+</head>
+
+<body>
+
+    <header class="mb-5">
+        <div class="textos">
+            <h1 class="titulo">Mayuri Condoy</h1>
+          
+        </div>
+        <div class="sesgoabajo"></div>
+    </header>
+
+    <main class="mb-4">
+        <section class="">
+            <ul>
+                <li>
+                    <h3><i>Slider Reproductor</i></h3>
+                </li>
+            </ul>
+
+            <div class="container ">
+                <video src="slide1.mp4" class="slider" autoplay loop controls></video>
+
+                <ul>
+                    <li onclick="reproductor('Slide1.mp4')"><video src="Slide1.mp4"></video></li>
+                    <li onclick="reproductor('Slide2.mp4')"><video src="Slide2.mp4"></video></li>
+                    <li onclick="reproductor('Slide3.mp4')"><video src="Slide3.mp4"></video></li>
+
+                </ul>
+            </div>
+
+
+
+        </section>
+
+
+    </main>
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-p34f1UUtsS3wqzfto5wAAmdvj+osOnFyQFpp4Ua3gs/ZVWx6oOypYoCJhGGScy+8" crossorigin="anonymous">
+    </script>
+
+
+</body>
+
+</html>
+<button class="btn btn1"> Regresar </button>

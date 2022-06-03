@@ -1,0 +1,41 @@
+   
+   <!Doctype html>
+    <html>
+    
+    <head>
+        <meta charset='utf-8'>
+        <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+        <title>Video</title>
+        <meta name='viewport' content='width=device-width, initial-scale=1'>
+        <!-- CSS -->
+        <link href='https://fonts.googleapis.com/css?family=Rock+Salt' rel='stylesheet' type='text/css'>
+        <link rel='stylesheet' type='text/css' media='screen' href='estiloVideo.css'>
+    </head>
+    
+    
+    <body>
+       
+        <h1 style="text-align:center" color="turquoise">Reproductor de Video</h1>
+        <div>
+            <video class='center' width="600" height="340" id="video1">
+                <source src="video.mp4" type="video/mp4">
+                <source src="video.mp4" type="video/webm">
+            </video>
+        </div>
+    
+        <div style="text-align:center;">
+            <button onclick="playPause()">&#9658;/||</button>
+            <button onclick="stop()">&#9726;</button>
+            <button onclick="skip(-10)">&lt;&lt;</button>
+            <button onclick="skip(10)">&gt;&gt;</button>
+        </div>
+        <!-- JS -->
+        <script src='general.js'></script>
+        
+        <script src='popup.js'></script>
+    
+       
+    </body>
+    
+    </html>
+    <button class="btn btn1"> Regresar </button>

@@ -1,0 +1,50 @@
+[
+    {		
+        "lunes": "Simulacion",
+        "martes": "Redes",
+        "miercoles": "sistemas digitales",
+        "jueves": "dbp",
+        "viernes": "dbp",
+        "_ides": "1"
+    },
+    {
+        "lunes": "Simulacion",
+        "martes": "Redes",
+        "miercoles": "sistemas digitales",
+        "jueves": "dbp",
+        "viernes": "dbp"
+    },
+    {
+        "lunes": "analisis numerico",
+        "martes": "dbp",
+        "miercoles": "analisis numerico",
+        "jueves": "Redes",
+        "viernes": "Simulacion"
+    },
+    {
+        "lunes": "analisis numerico",
+        "martes": "dbp",
+        "miercoles": "analisis numerico",
+        "jueves": "Redes",
+        "viernes": "Simulacion"
+    },
+    {
+        "lunes": "Sistemas digitales",
+        "martes": "analisis numericoes",
+        "miercoles": "dbp",
+        "jueves": "Simulacion",
+        "viernes": "Sistemas digitales"
+    
+    
+    },
+    {
+        "lunes": "Sistemas digitales",
+        "martes": "analisis numerico",
+        "miercoles": "dbp",
+        "jueves": "Simulacion",
+        "viernes": "Sistemas digitales"
+    
+    
+    }
+    
+    ]

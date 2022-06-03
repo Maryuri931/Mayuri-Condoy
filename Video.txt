@@ -1,0 +1,23 @@
+Adjunto el link del video porque pesa mucho y no me dejaba subir
+https://drive.google.com/file/d/19sjM-CqHyVjeviR8iU-19OmGWlC9vWZC/view?usp=sharing
+
+
+
+
+    <?xml version="1.0" encoding="UTF-8"?>
+
+<dbp>
+    <efectivo ides="1"> 
+        <dinero>Cazadora</dinero>
+        <ocupacion>Padres</ocupacion>
+ 
+
+    </efectivo>
+    <efectivo> 
+         <dinero>Pantalones</dinero>
+        <ocupacion>Hermana</ocupacion>
+    </efectivo>
+   <efectivo> 
+         <dinero>Pantalones</dinero>
+        <ocupacion>Hermana</ocupacion>
+    </efectivo>
